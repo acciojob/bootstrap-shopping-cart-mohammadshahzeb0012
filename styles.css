@@ -6,3 +6,16 @@
 .summary{
   background-color: #f7fbff;
 }
+h2{
+  color: #3b99e0;
+}
+h5{
+  color: #3b99e0;
+}
+.description > a{
+  text-decoration: none;
+}
+.summary{
+  border-top: 10px solid #5ea4f3;
+
+}
